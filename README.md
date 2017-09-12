@@ -1,8 +1,6 @@
 [个人博客](https://github.com/zhengwei1949/myblog/issues)
 
 ## 要写的代码：
-- 用vuex实现todoMVC案例
-- 通过代码理解cookie,session
-  + npm install express-session --save-dev
-- 算法排序相关
+- 用vue + vuex实现todoMVC案例
+- 用vue实现豆瓣电影项目
 - tic toc用react做出来
